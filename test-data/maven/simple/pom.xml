@@ -24,7 +24,7 @@
             Properties used to create a CD style version number for the Maven build
         -->
         <revision>1.0.0</revision>
-        <changelist></changelist>
+        <changelist/>
         <sha1>-SNAPSHOT</sha1>
     </properties>
 
@@ -60,7 +60,7 @@
         <dependency>
             <groupId>org.json</groupId>
             <artifactId>json</artifactId>
-            <version>20210307</version>
+            <version>20240303</version>
         </dependency>
 
         <dependency>
