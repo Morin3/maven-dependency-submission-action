@@ -83,7 +83,7 @@
     <dependency>
       <groupId>org.clojure</groupId>
       <artifactId>tools.logging</artifactId>
-      <version>1.2.4</version>
+      <version>1.3.1</version>
     </dependency>
     <dependency>
       <groupId>clojure.java-time</groupId>
@@ -218,7 +218,7 @@
     <dependency>
       <groupId>org.clojure</groupId>
       <artifactId>data.csv</artifactId>
-      <version>1.0.1</version>
+      <version>1.1.1</version>
     </dependency>
     <dependency>
       <groupId>tongue</groupId>
